@@ -62,9 +62,3 @@ public class EmployeeExample2	{
 		System.out.println("Byes");
 	}
 }
-
-
-// linkedlist 
-// hashmap
-// array
-// collections
